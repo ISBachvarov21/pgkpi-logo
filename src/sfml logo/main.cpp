@@ -27,8 +27,9 @@ int main()
     logo.setScale(0.5, 0.5);
     logo.setOrigin(125, 125);
     logo.setPosition(1280 / 2 - 62.5, 720 / 2 - 62.5);
-
     logo.setColor(sf::Color(57, 91, 170, 255));
+
+    window.setFramerateLimit(120);
 
     while (window.isOpen()) {
         dt = clock.getElapsedTime().asSeconds();
