@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\Ivaylo\source\repos\sfml logo\sfml logo\main.cpp(21,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ivaylo\source\repos\sfml logo\sfml logo\main.cpp(21,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  0 of 74 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sfml logo.vcxproj -> C:\Users\Ivaylo\source\repos\sfml logo\Release\sfml logo.exe
